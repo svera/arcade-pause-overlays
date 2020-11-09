@@ -16,6 +16,7 @@ If Retroarch is properly set-up, a pause overlay will show up when emulation is 
 ```
 input_overlay = "/opt/retropie/emulators/retroarch/overlays/pause/<romname>.cfg"
 input_overlay_enable = "true"
+input_overlay_opacity = "1.000000"
 ```
 
 * Create an overlay configuration in `/opt/retropie/emulators/retroarch/overlays/pause/<romname>.cfg` for each game you want to add a pause overlay with the following content:
