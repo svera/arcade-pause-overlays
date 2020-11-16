@@ -24,7 +24,7 @@ input_overlay_opacity = "1.000000"
 ```
 overlays = 2
 overlay0_overlay = "empty.png"
-overlay0_name = "controls"
+overlay0_name = "pause"
 overlay0_descs = 0
 
 overlay1_overlay = "<overlay file>"
@@ -32,7 +32,7 @@ overlay1_rect = "0.0,0.0,1.0,1.0"
 overlay1_full_screen = true
 overlay1_descs = 1
 overlay1_desc0 = "overlay_next,1,1,rect,1,1"
-overlay1_desc0_next_target = "controls"
+overlay1_desc0_next_target = "pause"
 ```
 
 ## Contributing
