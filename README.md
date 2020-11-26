@@ -42,6 +42,7 @@ So you want to contribute more images? Great! Just make a pull request, taking i
 * Image apect ratio must match intended host's aspect ratio. Currently we include overlays for 4:3 displays only, but will accept overlays for other aspect ratios as well.
 * Use original artwork from actual arcade machines. Disposition changes are allowed to adapt them to the intended display aspect ratio.
 * Use transparencies in background whenever possible, so they blend nicely with the running game when paused. Take a look at how existing overlays use it.
+* Image file name should be equal as MAME rom name.
 
 ## Acknowledgments
 
